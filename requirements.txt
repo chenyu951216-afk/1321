@@ -1,0 +1,9 @@
+fastapi==0.139.0
+uvicorn==0.51.0
+python-multipart==0.0.32
+Jinja2==3.1.6
+numpy==2.5.1
+Pillow==12.3.0
+opencv-python==4.13.0.92
+onnxruntime==1.27.0
+insightface==1.0.1
